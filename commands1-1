@@ -1,0 +1,6 @@
+echo #0
+echo *
+which -- -foo
+set -x
+set +x
+PS1='\w $'
