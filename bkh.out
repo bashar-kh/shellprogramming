@@ -1,0 +1,17 @@
+find: ‘/etc/cups/ssl’: Keine Berechtigung
+find: ‘/etc/news’: Keine Berechtigung
+find: ‘/etc/skel/.local’: Keine Berechtigung
+find: ‘/etc/skel/.config’: Keine Berechtigung
+find: ‘/etc/polkit-1/rules.d’: Keine Berechtigung
+find: ‘/etc/audisp’: Keine Berechtigung
+find: ‘/etc/uucp’: Keine Berechtigung
+/etc/pam.d/passwd
+find: ‘/etc/audit’: Keine Berechtigung
+find: ‘/etc/sudoers.d’: Keine Berechtigung
+find: ‘/etc/ppp’: Keine Berechtigung
+find: ‘/etc/ssl/private’: Keine Berechtigung
+find: ‘/etc/sysconfig/network/providers’: Keine Berechtigung
+find: ‘/etc/lvm/backup’: Keine Berechtigung
+find: ‘/etc/lvm/cache’: Keine Berechtigung
+find: ‘/etc/lvm/archive’: Keine Berechtigung
+/etc/passwd
