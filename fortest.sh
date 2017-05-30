@@ -3,3 +3,8 @@ do
 	echo "-------> $P"
 	test "$P" = root && break
 done
+for P in `ls`
+do
+	test -d "$P" || continue
+	echo "$P"
+done
