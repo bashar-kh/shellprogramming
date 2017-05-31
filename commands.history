@@ -1,0 +1,1000 @@
+echo $0
+( set -o posix ; set ) | grep 0
+less /etc/passwd
+echo $1
+echo $2
+echo $3
+echo $0
+which bash
+which -bash
+which - bash
+which bash
+echo $PATH
+wich ls
+which ls
+man find
+find / -type f -name -bash 
+sudo find / -type f -name bash 
+locate bash
+yzpper -i locate
+zypper -i locate
+echo *
+wich \-bash
+which \-bash
+which /-bash
+which \-bash
+which /-bash
+which \ -bash
+which /-bash
+which / -bash
+sudo -
+sudo -i
+which \-foo
+which \ -foo
+which  /-foo
+which  // -foo
+which  -- -foo
+sudo -i
+which  -- -foo
+which --help
+which  -foo
+sudo -i
+set -x
+man set
+ech $PS1
+sudo -i
+logout 
+echo $PS1
+unset 
+which -foo
+which \ -foo
+set +x
+which \ -foo
+which -- -foo
+vi commands1-1
+git status 
+git add .
+git commit -m "Session1-1"
+git push origin master 
+su - heiko -c id
+echo $0
+sudo -i 
+suod -i
+sudo -i
+cd ..
+ls -asl
+man bash 
+less .profile 
+less .bashrc 
+less /etc/bash.bashrc 
+less .bashrc 
+sudo su
+sudo su -
+su
+sudo -l
+export FOO=bar
+su
+sudo -s
+man sudo 
+cat /etc/passwd
+sudo su
+sudo -s
+su -
+exit
+echo $FOO
+sudo ßi
+sudo -i
+echo $0
+sudo -i
+echo $0
+sudo -i
+ls
+su wwwrun
+cat /etc/passwd | grep wwwrun
+su wwwrun
+id wwwrun
+cd BKH/
+vi first.sh
+chmod u+x first.sh 
+vi first.sh
+./first.sh 
+ech $$
+echo $$
+ps -elf | grep 5179
+echo $$
+git add .
+git commit "first script "
+git commit -m "first script "
+git push origin master 
+$FOO="hallo"
+FOO="hallo"
+BAR="world\!"
+./first.sh 
+echo $FOO
+./first.sh 
+export $FOO
+export $BAR
+BAR="world"
+export $BAR
+./first.sh 
+vi first.sh
+./first.sh 
+vi first.sh
+BAR=world
+FOO=Hello
+vi first.sh
+./first.sh 
+export FOO=bar
+BAR=world
+./first.sh 
+vi first.sh
+export BAR=Hello
+vi first.sh
+./first.sh 
+vi first.sh
+./first.sh 
+vi first.sh
+./first.sh 
+git status
+git status 
+.
+sh .
+. first.sh 
+./first.sh 
+source 
+man source
+source .
+cd ~/BKH/
+ls
+source first.sh 
+cd ~/BKH/
+ls
+./first.sh 
+help source 
+vi first.sh
+./first.sh 
+vi first.sh
+./first.sh 
+vi first.sh
+chmod 
+chmod +x first.sh 
+./first.sh 
+vi first.sh
+file first.sh 
+vi first.sh 
+file first.sh 
+vi first.sh 
+file first.sh 
+ruby -v
+chef exec ruby -v
+find /etc -name passwd 1>bkh.out 2>$1
+find /etc -name passwd 1>bkh.out 2>&1
+cat bkh.out 
+find /etc/ -name passwd 1>x.out 2<x.out
+wc -l x.out 
+find /etc/ -name passwd 1>x.out 2<y.out
+wc -l x.out y.out
+find /etc/ -name passwd 1>x.out 2>y.out
+find /etc/ -name passwd 1>x.out 2<y.out
+wc -l x.out y.out
+find /etc/ -name passwd 1>x.out 2>x.out
+wc -l x.out y.out
+wc -l x.out 
+less x.out 
+less y.out 
+less x.out 
+find /etc/ -name passwd 1>x.out 2>x.out
+wc -l x.out 
+find /etc/ -name passwd 1>x.out 2<y.out
+wc -l x.out y.out
+cron -l
+cron -P
+cron -L
+cron -p
+crontab -l
+crontab -e
+find /etc/ -name passwd | less
+find /etc/ -name passwd 2>&1 | less
+find /etc/ -name passwd  |& less
+man tr
+man gtip
+man gtsip
+man gzip
+getent services daytime 
+sort x.out 
+sort y.out 
+sort <y.out 
+sort <<y.out 
+hi 
+all
+
+sort <y.out 
+sort << y.out 
+hi
+hallo
+EOF
+
+vi y.out 
+sort << y.out 
+
+sfd
+fw
+few
+
+man sal
+man watch 
+echo hallo | tr a-z A-Z
+echo $PATH | tr a-z A-Z
+tr a-z A-Z <<<$PATH
+tr a-z A-Z <<$PATH
+tr a-z A-Z <<<$PATH
+echo $?
+echo $PATH | grep batata
+echo $?
+history
+grep sbin <<<$PATH
+echo $?
+FOO=`ls`
+echo $FOO
+du
+FOO=`du`
+echo $FOO
+FOO=`ls --color`
+echo $FOO
+ls
+echo "$FOO"
+FOO=`du`
+echo "$FOO"
+FOO=$(ls)
+echo $FOO
+echo "$FOO"
+man paste
+echo * *
+echo *
+echo .*
+echo .* *
+cd ..
+echo .* *
+echo .* 
+ls .* *
+ls
+ls *
+ls -a *
+ls -a * | wc -l
+ls .* * | wc -l
+echo ???
+echo *.*
+ls *.*
+cd BKH
+ls
+ls *.*
+find -name D*
+find -name #.out
+find -name *.out
+ls
+find -name *.out
+set -x
+find -name *.out
+set +x
+find -name *.out
+find / -name *.out
+mkdir xxx
+touch xxx/abc.mp3
+find / -name *.mp3
+find -name *.mp3
+ls
+find -name *.out
+find -name *out
+find -name 
+find -name *.mp3
+find -name \*.mp3
+date
+local
+locale
+touck X.out
+toush X.out
+touch X.out
+ls
+ls [a-z]*
+touch mm
+touch MM
+ls [a-m]*
+ls [a-z]*
+ls [aA[:upper:]]*
+touch asd
+ls [aA[:upper:]]*
+tail -f .bash_history 
+sudo ßi
+sudo -i
+export FOO=orange
+echo $FOO
+exit
+FOO=banana
+echo $FOO
+exit
+pstree
+exit
+echo $FOO
+FOO=banan
+echo $FOO
+exit
+FOO=Orange
+echo $FOO
+exit
+env
+ls
+exit
+true |false|true
+echo $?
+set -o pipefail 
+true |false|true
+echo $?
+exit
+sleep 7d &
+echo $!
+sleep 6d &
+echo $!
+exit
+ls
+locale
+echo $SHELL
+echo ~/bla
+echo ~wwwrun/bla
+echo $HOME
+echo foo{a,b,c,hallo}
+echo foo{a,b,c,hallo}{banana,orange,kartofeln}
+echo foo{a..z}{banana,orange,kartofeln}
+echo foo{a..z}{1..1000}
+echo foo{a..z}{1..100}
+echo foo{1..100}{1,100}
+echo foo{1..100}{1..100}
+echo foo{1..100..3}{a,b}
+echo $http-proxy
+echo $http_proxy
+echo $HOME
+man export
+cat /proc/self/environ 
+xxd /proc/self/environ 
+tr \0 \n < /proc/self/environ 
+tr '\0' '\n' < /proc/self/environ 
+tr '\0' '\n' </proc/self/environ 
+tr '\0' '\n' <<</proc/self/environ 
+tr '\0' '\n' <</proc/self/environ 
+tr '\0' '\n' /proc/self/environ 
+tr '\0' '\n' </proc/$$/environ 
+echo $$
+tr '\0' '\n' </proc/$$/environ 
+ls /proc/self
+ls -asl /proc/ | grep self
+env
+man declate
+man declare 
+which env
+type =a emv
+type -a emv
+type -a env
+hash 
+man  hash 
+getent password teilnemher
+getent passwd teilnemher
+man gtant
+man getent
+getent passwd teilnemher
+getent passwd root
+getent hosts localhost
+getent services ssh
+echo $FOO
+echo $BAR
+export FOO=banana
+bash
+echo $FOO
+export FOO*=bar
+export -n FOO
+echo $FOO
+export FOO=hopala
+bash
+echo FOO
+echo $FOO
+bash
+export FOO=beko
+echo $FOO
+bash
+echo $FOO
+export FOO=banana
+echo $FOO
+bash
+echo $FOO
+nv -i env
+env -i env
+env -i  bash
+ech $?
+echo $?
+echo $$
+echo $0
+true | false
+echo ?
+true | false
+echo $?
+man shopt
+bash
+pstree
+echo $@
+echo $*
+echo $#
+echo #HOME
+echo $HOME
+echo ${HOME%/*}
+cd BKH/
+pwd
+H=`pwd`
+echo $H
+echo ${H%/*}
+echo ${H%BKH}
+echo ${H%nehm*}
+echo xxd /proc/self/environ 
+echo ${H*}
+echo ${!H*}
+echo ${!*LC*}
+echo ${! *LC*}
+echo ${!LC*}
+echo ${!\*LC*}
+echo ${!(*LC*)}
+echo ${![*LC*]}
+echo ${!{*LC*}}
+H=x
+echo ${!H*}
+echo $H
+echo ${!H*}
+unset FOO
+echo $FOO
+echo ${FOO:-hallo}
+echo ${!x*}
+echo $x
+echo $X
+echo $a
+a=i can see you
+a="i can see you"
+echo $a
+x=a
+echo $x
+echo ${!x*}
+echo ${!x}
+echo ${BAR:?}
+echo ${BAR:? oh banana}
+FOO=foo bar
+echo $IFS
+echo $IFS | xxd
+echo | xxd
+echo "$IFS" | xxd
+echo "$IFS"
+echo "$IFS" | xxd
+FOO="foo bar"
+echo $FOO
+env 
+env |grep FOO
+echo $FOO
+env |grep FOO
+echo $FOO
+env | grep FOO
+echo "$HOME is banana"
+echo "heute ist `date`
+"
+echo "heute ist `date)"
+echo "heute ist `date)""
+echo "heute ist `date)"
+echo "heute ist `date)"
+echo "heute ist $(date)"
+echo $date
+x=1
+x=${x}adm
+echo $x
+x="$x"adm
+echo $x
+x=1
+echo $x
+x="$x"adm
+echo $x
+x=${HOME}s
+echo $x
+echo '$HOME'
+stty -a
+
+echo 
+
+vi test
+if grep root /etc/passwd > /dev/null ; then echo " all is OK"; else echo banana; fi
+if grep root /etc/passwd > /dev/null ; then echo " all is OK"; else echo banana; fi 
+x=`grep banan /etc/passwd`
+echo $?
+echo $x
+x=`grep root /etc/passwd`
+echo $x
+echo $?
+x=`grep root /etc/passwd`
+echo $?
+x=`grep -q root /etc/passwd`
+echo $x
+x=`grep -q root /etc/passwd`
+echo $?
+date
+help test
+test 2 > 10
+echo $?
+test -n 2 > 10
+echo $?
+test  2 gt 10
+test  2 -gt 10
+echo $?
+test  20 -gt 10
+echo $?
+FOO=2
+BAR=10
+test  $FOO -gt $BAR
+echo $?
+test  $FOO -lt $BAR
+echo $?
+test  $FOO > $BAR
+echo $?
+sudi -i
+sudo -i
+vi readsc.sh
+chmod u+x readsc.sh 
+./readsc.sh 
+vi readsc.sh
+./readsc.sh 
+vi readsc.sh
+./readsc.sh 
+vi readsc.sh
+./readsc.sh 
+vi readsc.sh
+./readsc.sh 
+vi readsc.sh
+./readsc.sh 
+man gettext 
+locale
+df -hP
+vi fortest.sh
+chmod u+x fortest.sh 
+./fortest.sh 
+git status 
+git add .
+git commit -m "commands untill for"
+vi fortest.sh
+./fortest.sh 
+man getent
+vi fortest.sh
+./fortest.sh 
+vi fortest.sh
+./fortest.sh 
+vi fortest.sh
+./fortest.sh 
+git add
+git add .
+git commit -m " for break "
+git push origin master 
+git status 
+vi fortest.sh
+./fortest.sh 
+ls 
+./fortest.sh 
+vi fortest.sh
+./fortest.sh 
+vi fortest.sh
+ls 
+vi fortest.sh
+git add .
+git commit -m " for continue "
+vi parm.sh
+chmod u+x parm.sh 
+./parm.sh ab 'a  z' z
+vi parm.sh
+./parm.sh ab 'a  z' z
+./parm.sh ab "a  z" z
+vi parm.sh
+./parm.sh ab "a  z" z
+vi parm.sh
+./parm.sh ab "a  z" z
+vi parm.sh
+git add .
+git commit -m " all parameter loop with spaces "
+git push origin master 
+vi parm.sh
+vi whiletest.sh
+chmod u+x whiletest.sh 
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+clear
+./whiletest.sh 
+clear
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+vi whiletest.sh
+./whiletest.sh 
+git add .
+git commit -m "while with cut"
+git push origin master 
+exit
+test -f /etc/passwd
+echo $?
+test -f ~/BKH
+echo $?
+test -d ~/BKH
+echo $?
+if [-f /etc/passwd]; then if [-f /etc/passwd]; then echo hello world; fi;  fi
+if [ -f /etc/passwd]; then; then echo hello world; fi
+if [ -f /etc/passwd]; then ; then echo hello world ; fi
+if [ -f /etc/passwd] ; then ; then echo hello world ; fi
+if [ -f /etc/passwd] ; then ; echo hello world ; fi
+if [ -f /etc/passwd] ; then  echo hello world ; fi
+if [ -f /etc/passwd] ; then ; echo hello ; fi
+if [ -f /etc/passwd] ; then ; echo hello  fi
+if [ -f /etc/passwd] ; then  echo hello  fi; 
+if [ -f /etc/passwd] ; fi
+if [-f /etc/passwd]; then echo bkh; fi
+if [ -f /etc/passwd ] ; then echo bkh; fi
+if [ -f /etc/passwd && -d ~/BKH ] ; then echo bkh; fi
+if [[ -f /etc/passwd ] && [ -d ~/BKH ]] ; then echo bkh; fi
+if [ [ -f /etc/passwd ] && [ -d ~/BKH ] ] ; then echo bkh; fi
+if { [ -f /etc/passwd ] && [ -d ~/BKH ] } ; then echo bkh; fi
+if  [ -f /etc/passwd ] && [ -d ~/BKH ]  ; then echo bkh; fi
+test -t 1 >/dev/null 
+test -t 1 
+test -t 1 >/dev/null 
+echo $?
+FOO=h
+BAR=m
+if [ -n $FOO ] ; then echo bkh ; fi
+if [ -n $YERO ] ; then echo bkh ; fi
+FOO=
+if [ -n $FOO ] ; then echo bkh ; fi
+test -n $FOO
+echo $?
+test -n $HH
+echo $?
+test -n "$FOO"
+echo $?
+test -n $FOO
+echo $?
+test -n $HOMES
+echo $?
+text $FOO=$BAR
+test $FOO=$BAR
+echo $?
+echo $FOO
+FOO=h
+echo $FOO
+test $FOO = $BAR
+echo $?
+FOO=$BAR
+echo $FOO
+test $FOO = $BAR
+echo $?
+exiit
+exit
+ls
+cd BKH/
+ls
+less readsc.sh 
+less whiletest.sh 
+echo $0
+cd ..
+ls
+cd BKH/
+vi hello.sh
+zypper -i xgettext
+zypper -s xgettext
+zypper se xgettext
+zypper se gettext
+zypper i gettext-tools
+zypper in gettext-tools
+sudo -i
+xgettext -L hello.sh 
+ls
+xgettext -L Shell hello.sh 
+ls
+cat messages.po 
+vi messages.po 
+man msgfmt 
+vi hello.sh
+mkdir locale
+cp messages.po locale/de.po
+cd locale/
+msgfmt de.po 
+ls
+exit
+ls
+cd BKH/
+ls locale/
+vi locale/de.po 
+getent passwd | cat -f1 -d: | while read ; do echo "$REPLY" done; ;
+getent passwd | cat -f1 -d: | while read ; do echo "$REPLY" ; done 
+getent passwd | cat -f1,6 -d: | while read ; do echo "$REPLY"  done ;  ;
+getent passwd | cat -f1,6 -d: | while read ; do echo "$REPLY" ; done   ;
+getent passwd | cut -f1,6 -d: | while read ; do echo "$REPLY" ; done   ;
+getent passwd | cut -f1,6 -d: | while read ; do echo "$REPLY" ; done   ; tr : "    "
+getent passwd | cut -f1,6 -d: | while read ; do echo "$REPLY" ; done   |  tr : "    "
+getent passwd | cut -f1,6 -d: |  tr : "    "
+man tr
+getent passwd | cut -f1,6 -d: | while IFS=: read user home ; do echo "$user" ; echo "$home" ; done   |  
+vi whiletest2.sh
+chmod u+x whiletest2.sh 
+chmod u+x hello.sh 
+LC_ALL=de ./hello.sh 
+vi hello.sh 
+LC_ALL=de ./hello.sh 
+vi hello.sh 
+LC_ALL=de ./hello.sh 
+vi hello.sh 
+ls locale/
+cat locale/messages.mo 
+vi UID.sh
+chmod u+x UID.sh 
+./UID.sh 
+vi UID.sh
+./UID.sh 
+vi UID.sh
+./UID.sh 
+sudo ./UID.sh 
+./UID.sh 
+man set
+man vi 
+less UID.sh 
+vi UID.sh 
+less UID.sh 
+vi UID.sh 
+less UID.sh 
+vi UID.sh 
+cat UID.sh 
+cat -v UID.sh 
+./UID.sh 
+cat -v UID.sh 
+vi UID.sh 
+cat -v UID.sh 
+vi UID.sh 
+vi Functiontest.sh
+chmod u+x Functiontest.sh 
+./Functiontest.sh 
+vi Functiontest.sh
+./Functiontest.sh 
+vi Functiontest.sh
+date +%Y
+vi Functiontest.sh
+date +%Y
+vi Functiontest.sh
+./Functiontest.sh 
+vi Functiontest.sh
+./Functiontest.sh 
+vi Functiontest.sh
+./Functiontest.sh 
+vi Functiontest.sh
+./Functiontest.sh 
+vi Functiontest.sh
+./Functiontest.sh 
+vi Functiontest.sh
+./Functiontest.sh 
+vi Functiontest.sh
+./Functiontest.sh 
+vi Functiontest.sh
+./Functiontest.sh 
+vi Functiontest.sh
+vi Functiontest1.sh 
+vi ./bkhlib.sh
+vi Functiontest1.sh 
+chmod u+x Functiontest1.sh 
+./Functiontest1.sh 
+git add .
+git status 
+git commit -m " Functions and localization"
+vi Signaltest.sh
+chmod u+x Signaltest.sh 
+./Signaltest.sh 
+vi Signaltest.sh
+./Signaltest.sh 
+ps -elf | Signal
+ps -elf |grep Signal
+kill -9 4705
+ps -elf |grep Signal
+vi Signaltest.sh
+./Signaltest.sh 
+kill %
+kill -l
+vi Signaltest.sh
+./Signaltest.sh 
+kill %
+vi Signaltest.sh
+./Signaltest.sh 
+vi Signaltest.sh
+./Signaltest.sh 
+vi Signaltest.sh
+./Signaltest.sh 
+git add .
+git commit -m "signals with like C++ for loop "
+git push origin master 
+kill -l
+less /boot/grub2/grub.cfg
+sudo less /boot/grub2/grub.cfg
+help getopts 
+help getopt
+man getopt
+getopt -o  hd: -l help,debug:,foo -- --de 8 -hf
+getopt -o  hd:f -l help,debug:,foo -- --de 8 -hf
+getopt -o  hd:f -l help,debug:,foo -- --de 8 -f -h
+vi getopttest.sh
+chmod u+x getopttest.sh 
+./getopttest.sh 
+./getopttest.sh blaa
+./getopttest.sh -hd blaa
+./getopttest.sh blaa -hd --debug 8
+vi getopttest.sh
+./getopttest.sh blaa -hd --debug 8
+./getopttest.sh blaa -hdx --debug 8
+./getopttest.sh blaa -hd --debug 8
+vi getopttest.sh
+./getopttest.sh blaa -hd --debug 8
+./getopttest.sh blaa -hdx --debug 8
+vi getopttest.sh
+./getopttest.sh blaa -hdx --debug 8
+./getopttest.sh blaa -hd --debug 8
+vi getopttest.sh
+./getopttest.sh blaa -hd --debug 8
+vi getopttest.sh
+./getopttest.sh blaa -hd --debug 8
+vi getopttest.sh
+./getopttest.sh blaa -hd --debug 8
+vi getopttest.sh
+./getopttest.sh blaa -hd --debug 8
+vi getopttest.sh
+git add .
+git commit -n "options handling"
+git commit -m "options handling"
+vi getopttest.sh
+./getopttest.sh blaa -hd --debug 8
+./getopttest.sh blaa blue -hd --debug 8
+vi getopttest.sh
+./getopttest.sh blaa blue -hd --debug 8
+vi getopttest.sh
+./getopttest.sh blaa blue -hd --debug 8
+vi getopttest.sh
+./getopttest.sh blaa blue -hd --debug 8
+vi getopttest.sh
+./getopttest.sh blaa blue -hd --debug 8
+vi getopttest.sh
+./getopttest.sh 'blaa blue' -hd --debug 8
+vi getopttest.sh
+./getopttest.sh 'blaa blue' -hd --debug 8
+git add .
+git commit -m "multi words parameters solution"
+git push origin master 
+vi getopttest.sh
+./getopttest.sh 'blaa blue' -hd --debug 8
+vi getopttest.sh
+./getopttest.sh 'blaa blue' -hd --debug 8
+./getopttest.sh 'blaa blue' --debug 8
+./getopttest.sh 'blaa blue' -hd --debug 
+vi getopttest.sh
+./getopttest.sh 'blaa blue' -hd --debug 8
+./getopttest.sh 'blaa blue'  --debug 8
+git add -
+git add .
+git commit -m "use options with extra prameters in our scribt"
+git push origin master 
+mna xargs
+man xargs
+find -type f -name '*.conf' | xargs echo
+find /etc -type f -name '*.conf' | xargs echo
+find /etc -type f -name '*.conf' -exec echo
+man find
+find /etc -type f -name '*.conf' -exec { echo }
+find /etc -type f -name '*.conf' -exec {echo}
+find /etc -type f -name '*.conf' exec {echo}
+find /etc -type f -name '*.conf' -exec {echo} \;
+find /etc -type f -name '*.conf' -exec{ echo } \;
+find /etc -type f -name '*.conf' -exec { echo } \;
+find /etc -type f -name '*.conf' -exec {echo} \;
+find /etc -type f -name '*.conf' -exec echo {} \;
+1man 0
+man 0
+man find
+man patch 
+sed < /etc/passwd
+sed </etc/passwd
+sed '' </etc/passwd
+man sed
+sed -n '' </etc/passwd
+sed -n '1,5 p' </etc/passwd
+sed '1,5 p' </etc/passwd
+sed -n '1,5 p' </etc/passwd
+sed '1,5 p' </etc/passwd
+sed -n '1,5 p' </etc/passwd
+sed -n '/root/ p' </etc/passwd
+sed -n '/root p' </etc/passwd
+sed -n '/root/helo p' </etc/passwd
+sed -n '/root/ p' </etc/passwd
+sed  '/root/ p' </etc/passwd
+sed -n '/root/ p' </etc/passwd
+man sed
+sed -n '2,/root/ p' </etc/passwd
+sed -n '%s/root/toor p' </etc/passwd
+sed -n '%/s/root/toor p' </etc/passwd
+sed -n '% s/root/toor p' </etc/passwd
+sed -n '/^root/ s/root/toor p' </etc/passwd
+sed -n '/^root/ s/root/toor/p' </etc/passwd
+sed -n '%/s/root/toor/p' </etc/passwd
+sed -n '%/ s/root/toor/p' </etc/passwd
+sed -n '% s/root/toor/p' </etc/passwd
+sed -n '%s/root/toor/p' </etc/passwd
+sed -n '/^root/ s/root/toor/p' </etc/passwd
+sed -n '/^root/ s/root/toor/pg' </etc/passwd
+sed -n '/%/ s/root/toor/pg' </etc/passwd
+sed -n '/1,%/ s/root/toor/pg' </etc/passwd
+sed -n '1,%/ s/root/toor/pg' </etc/passwd
+sed -n '1,% s/root/toor/pg' </etc/passwd
+sed -n '% s/root/toor/pg' </etc/passwd
+sed -n '%/s/root/toor/pg' </etc/passwd
+sed -n '%s/root/toor/pg' </etc/passwd
+sed -n -e'%s/root/toor/g' -e 'p' </etc/passwd
+sed -n -e'/root/ s/root/toor/g' -e 'p' </etc/passwd
+sed -n '/bash/d; p' </etc/passwd
+sed -n '/bash/dg; p' </etc/passwd
+sed -n '/bash/d; p' </etc/passwd
+clear
+sed -n '/bash/d; p' </etc/passwd
+clear
+sed -n -e '/^root/a Hallo' -e 'p' >/etc/passwd
+sed -n -e '/^root/a Hallo' -e 'p' </etc/passwd
+clear
+man sed
+sed -n -e '/^root/a Hallo' -e 'p' </etc/passwd
+man sed
+vi akgtest.sh
+date | awk '{print $1}
+'
+date
+date | awk '{echo $6}'
+date | awk '{print $6}'
+awk '/root/{print}' </etc/passwd
+git add .
+git status 
+git commit -m "awk examples"
+exit
+man singnals
+man signals
+man signal
+exit
